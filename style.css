@@ -32,6 +32,7 @@ body {
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
   position: relative;
+  background: #e0f8f7;
 }
 
 /* Main heading for inside page */
@@ -45,7 +46,7 @@ body {
 /* For both inside page's main heading and 'view me' text on card front cover */
 .inside-page__heading,
 .card-front__text-view {
-  font-size: 1.3rem;
+  font-size: 1.9rem;
   font-weight: 800;
   margin-top: 0.2rem;
 }
@@ -78,7 +79,7 @@ body {
 
 /* For pricing text on card front cover */
 .card-front__text-price {
-  font-size: 1.2rem;
+  font-size: 2rem;
   margin-top: -0.2rem;
 }
 
